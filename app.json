@@ -9,7 +9,7 @@
   "env":{
     "PREFIX":
     {
-      "description":"choose your prefix of bot",
+      "description":"+",
       "value":".",
       "required":true
     },
@@ -48,8 +48,8 @@
      },
     "PUBLIC_MODE":
     {
-      "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "description":"No",
+      "value":"No",
       "required":false
     }
 	,
